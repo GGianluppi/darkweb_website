@@ -40,9 +40,12 @@ After installing snapd, you can easily install OnionShare with the following com
 To use OnionShare via the command-line interface (CLI), run the following command to display the available CLI options and commands:
 
 	onionshare.cli --help
-	
-	
-	
+</br>
+ 
+<p align="center">
+<img src="https://github.com/GGianluppi/darkweb_website/assets/104764600/90a3345e-88ca-4858-945b-e003ded492a9" width=160% height=160%>
+</p>
+
 # PART 2
 
 Nginx is a popular and high-performance open-source web server and reverse proxy server software. For more information about Nginx, you can visit the official website at **[NGINX](https://nginx.org/en/)**. 
