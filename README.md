@@ -132,6 +132,11 @@ To view your newly created .onion address, use the following command:
 	cat /var/lib/tor/hidden_service/hostname
 
 
+<p align="center">
+<img src="https://github.com/GGianluppi/darkweb_website/assets/104764600/312b2fdc-2bd8-4908-8072-12889aa896ff)" width=100% height=100%>
+</p>
+
+
 
 ## Create a Vanity Onion Address
 A vanity onion address is a customized and human-readable .onion address on the Tor network. For this purpose, we will use the tool 'mkp224o' to generate vanity onion addresses. For more information, you can visit **[mkp224o](https://github.com/cathugger/mkp224o)**.
@@ -173,6 +178,11 @@ Copy your generated key to the Tor hidden service directory:
 Finally, restart the Tor service to apply the changes:
 
 	sudo systemctl restart tor
+
+
+<p align="center">
+<img src="https://github.com/GGianluppi/darkweb_website/assets/104764600/eb294e4d-865d-41d6-a4b8-b45a9f0c83a3" width=100% height=100%>
+</p>
 
 
 
