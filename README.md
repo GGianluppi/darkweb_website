@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/GGianluppi/darkweb_website/assets/104764600/325ce775-80b5-4314-9c9f-49df5ed8bd54" width=50% height=50%>
+<img src="https://github.com/GGianluppi/darkweb_website/assets/104764600/03c38c35-dfba-4887-91bc-f4d59b3c91e0" width=50% height=50%>
 </p>
 
 
@@ -43,7 +43,7 @@ To use OnionShare via the command-line interface (CLI), run the following comman
 </br>
  
 <p align="center">
-<img src="https://github.com/GGianluppi/darkweb_website/assets/104764600/90a3345e-88ca-4858-945b-e003ded492a9" width=160% height=160%>
+<img src="https://github.com/GGianluppi/darkweb_website/assets/104764600/263178c6-44b1-4ba3-887b-8e28e438ebb2)" width=160% height=160%>
 </p>
 
 # PART 2
@@ -133,7 +133,7 @@ To view your newly created .onion address, use the following command:
 
 
 <p align="center">
-<img src="https://github.com/GGianluppi/darkweb_website/assets/104764600/312b2fdc-2bd8-4908-8072-12889aa896ff)" width=100% height=100%>
+<img src="https://github.com/GGianluppi/darkweb_website/assets/104764600/ba82577e-1a49-4a59-920a-4ee958f9154e" width=100% height=100%>
 </p>
 
 
@@ -181,7 +181,7 @@ Finally, restart the Tor service to apply the changes:
 
 
 <p align="center">
-<img src="https://github.com/GGianluppi/darkweb_website/assets/104764600/eb294e4d-865d-41d6-a4b8-b45a9f0c83a3" width=100% height=100%>
+<img src="https://github.com/GGianluppi/darkweb_website/assets/104764600/cf216f0a-0732-4033-984a-588ace605826" width=100% height=100%>
 </p>
 
 
