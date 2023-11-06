@@ -43,7 +43,7 @@ To use OnionShare via the command-line interface (CLI), run the following comman
 </br>
  
 <p align="center">
-<img src="https://github.com/GGianluppi/darkweb_website/assets/104764600/263178c6-44b1-4ba3-887b-8e28e438ebb2)" width=160% height=160%>
+<img src="https://github.com/GGianluppi/darkweb_website/assets/104764600/434360f6-ac77-4be1-8dfb-c5ae6040bfee" width=160% height=160%>
 </p>
 
 # PART 2
